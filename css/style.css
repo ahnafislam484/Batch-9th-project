@@ -15,7 +15,7 @@ body {
   margin: 0 auto;
   min-height: 600px;
   margin-top: 50px;
-  background-color:rgba(0,0,0,0.5);
+  background-color: rgba(0, 0, 0, 0.5);
   background-image: url("../img/images/Banner\ Image.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -31,12 +31,43 @@ body {
   align-items: center;
   min-height: 600px;
 }
-.baner-titel{
+.baner-titel {
   font-weight: 400;
   font-size: 32px;
 }
-.baner-head{
-    font-weight: 900;
-    font-size: 72px;
-    text-align: center;
+.baner-head {
+  font-weight: 900;
+  font-size: 72px;
+  text-align: center;
 }
+
+/* second- page start hear */
+.second-page {
+  /* border: 2px solid red; */
+  width: 802.9px;
+  height: 600px;
+  margin: 50px auto;
+  /* margin-top: 44px; */
+  text-align: center;
+}
+.second-titel {
+  font-size: 88px;
+  font-weight: 700;
+  color: rgb(255, 0, 0);
+}
+.second-description {
+  color: rgb(255, 0, 0);
+
+  font-size: 14px;
+}
+.second-titel-2 {
+  color: rgb(7, 2, 17);
+
+  font-size: 30px;
+  font-weight: 300;
+}
+.second-img {
+  width: 700px;
+  height: 430px;
+}
+/* second- page end hear */
